@@ -1,1 +1,4 @@
 rootProject.name = 'blog-article-code-template'
+
+include('ordering-service')
+include('catalog-service')
